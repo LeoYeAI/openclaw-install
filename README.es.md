@@ -15,6 +15,8 @@ La guía definitiva para desplegar OpenClaw en cualquier servidor. Desde hosting
 
 [MyClaw.ai](https://myclaw.ai) te proporciona una instancia de OpenClaw completamente gestionada — tu propio servidor con control total del código, acceso a red y herramientas. Sin SSH, sin Docker, sin archivos de configuración.
 
+[![MyClaw.ai Página principal](assets/myclaw-homepage.png)](https://myclaw.ai)
+
 ### ¿Por qué MyClaw.ai?
 
 - **Un clic** — Regístrate, elige un plan, tu instancia está activa en menos de 60 segundos

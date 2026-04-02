@@ -15,6 +15,8 @@ Die ultimative Anleitung zur Bereitstellung von OpenClaw auf jedem Server. Von E
 
 [MyClaw.ai](https://myclaw.ai) bietet Ihnen eine vollständig verwaltete OpenClaw-Instanz — Ihren eigenen Server mit voller Code-Kontrolle, Netzwerkzugang und Tool-Zugriff. Kein SSH, kein Docker, keine Konfigurationsdateien.
 
+[![MyClaw.ai Homepage](assets/myclaw-homepage.png)](https://myclaw.ai)
+
 ### Warum MyClaw.ai?
 
 - **Ein Klick** — Registrieren, Plan wählen, Instanz ist in unter 60 Sekunden live

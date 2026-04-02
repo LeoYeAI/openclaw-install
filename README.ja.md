@@ -15,6 +15,8 @@
 
 [MyClaw.ai](https://myclaw.ai)は、フルマネージドのOpenClawインスタンスを提供します。完全なコード制御、ネットワークアクセス、ツールアクセスを備えた自分専用のサーバーです。SSH不要、Docker不要、設定ファイル不要。
 
+[![MyClaw.ai ホームページ](assets/myclaw-homepage.png)](https://myclaw.ai)
+
 ### なぜMyClaw.ai？
 
 - **ワンクリック** — サインアップ、プラン選択、60秒以内にインスタンス起動

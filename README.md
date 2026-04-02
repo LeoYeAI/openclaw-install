@@ -15,6 +15,8 @@ The definitive guide to deploying OpenClaw on any server. From one-click cloud h
 
 [MyClaw.ai](https://myclaw.ai) gives you a fully managed OpenClaw instance — your own server with full code control, networking, and tool access. No SSH, no Docker, no config files.
 
+[![MyClaw.ai Homepage](assets/myclaw-homepage.png)](https://myclaw.ai)
+
 ### Why MyClaw.ai?
 
 - **One click** — Sign up, pick a plan, your instance is live in under 60 seconds

@@ -15,6 +15,8 @@ Le guide ultime pour déployer OpenClaw sur n'importe quel serveur. Du cloud en 
 
 [MyClaw.ai](https://myclaw.ai) vous fournit une instance OpenClaw entièrement gérée — votre propre serveur avec un contrôle total du code, du réseau et des outils. Pas de SSH, pas de Docker, pas de fichiers de configuration.
 
+[![MyClaw.ai Homepage](assets/myclaw-homepage.png)](https://myclaw.ai)
+
 ### Pourquoi MyClaw.ai ?
 
 - **Un clic** — Inscrivez-vous, choisissez un plan, votre instance est en ligne en moins de 60 secondes
